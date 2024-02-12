@@ -1,0 +1,11 @@
+.cart-page__item-image{
+    width: 150px;
+}
+.change-amount{
+    width: 35px;
+    height: 35px;
+}
+
+.remove-product{
+    cursor: pointer;
+}

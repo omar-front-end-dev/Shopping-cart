@@ -1,0 +1,12 @@
+.single__product-quantity-btn{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.single__product-quantity-input{
+    width: 100px;
+    text-align: center;
+    
+}
